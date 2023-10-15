@@ -1,8 +1,8 @@
 
-[![MasterHead] (https://techemergent.com/wp-content/uploads/2023/04/image-137.png)
+[![MasterHead](https://images.prismic.io//intuzwebsite/5b53bf45-9093-4508-9cd6-81e057dd9b4c_AIoT+Banner.png?w=1200&q=80&auto=format,compress&fm=png8)
 <h1 align="center">Hi 👋, I'm K Lalith Pavan</h1>
 <h3 align="center">Learning how to teach machines to learn</h3>
-<img align = "right" alt = "coding" width ="400" src="https://jnnce.ac.in/jnndemo/aiml.gif ">
+<img align = "right" alt = "coding" width ="400" src="https://i.gifer.com/QWc9.gif ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klalithpavan&label=Profile%20views&color=0e75b6&style=flat" alt="klalithpavan" /> </p>
 
 - 🌱 I’m currently learning **TensorFlow, Keras , Artificial Intelligence , Arduino ,IOT**
