@@ -1,4 +1,4 @@
-[![MasterHead](https://images.prismic.io//intuzwebsite/5b53bf45-9093-4508-9cd6-81e057dd9b4c_AIoT+Banner.png?w=1200&q=80&auto=format,compress&fm=png8)
+[![MasterHead]](https://images.prismic.io//intuzwebsite/5b53bf45-9093-4508-9cd6-81e057dd9b4c_AIoT+Banner.png?w=1200&q=80&auto=format,compress&fm=png8)
 <h1 align="center"> I'm K Lalith Pavan</h1>
 <h3 align="center">Learning how to teach machines to learn</h3>
 <img align = "right" alt = "coding" width ="400" src="https://i.gifer.com/QWc9.gif ">
